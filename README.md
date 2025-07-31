@@ -110,5 +110,6 @@ __pycache__/
 .env
 *.DS_Store
 ```
-
+## Author
+- Manjul Mayank
 
