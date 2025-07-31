@@ -1,3 +1,17 @@
+## Question:
+You can implement ANY GAME OF YOUR CHOICE, either in Python or another programming language of your choice as well. Within this game, your goal is to develop a learning agent utilising Double DQN and another agent utilising Duelling DQN, both of them gaining proficiency in the game through experimentation, making moves, and obtaining rewards or penalties based on whether those moves result in a victory, defeat, or tie. 
+
+You are permitted to utilise standard libraries like T ensorFlow, Keras, pandas, numpy, and similar tools. To be clear and precise your code should have the following components: Establishing the ecosystem/environment, Outlining the gameplay, Constructing the Double DQN AND Duelling DQN reinforcement learning framework, Conducting model training, Evaluating the model and providing a comparison between the two.
+
+
+
+
+
+
+
+
+
+
 # 🎮 Double DQN & Dueling DQN Reinforcement Learning Agents (CartPole-v1)
 
 This repository implements and compares **Double DQN** and **Dueling DQN** architectures on the classic **CartPole-v1** environment using **TensorFlow 2.x** and **OpenAI Gym**. The goal is to balance a pole on a moving cart by learning optimal actions through trial and error using reinforcement learning.
